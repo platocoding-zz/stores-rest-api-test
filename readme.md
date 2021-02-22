@@ -2,6 +2,5 @@
 
 
 # Stores REST Api
-
-This is built with Flask, Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy.
+This is the project I was working on Udemy course on automation with Python.
 
